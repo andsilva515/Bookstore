@@ -1,0 +1,110 @@
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.AssemblyInfo.cs
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.exe
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.deps.json
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.runtimeconfig.json
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.runtimeconfig.dev.json
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.pdb
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceLivrariaAPI.StaticWebAssets.Manifest.cache
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceLivrariaAPI.StaticWebAssets.Pack.cache
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.EcommerceLivrariaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.EcommerceLivrariaAPI.props
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.EcommerceLivrariaAPI.props
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.EcommerceLivrariaAPI.props
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.csproj.CopyComplete
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.dll
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.pdb
+C:\Users\ander\source\repos\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.genruntimeconfig.cache
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.exe
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.deps.json
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.runtimeconfig.json
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.runtimeconfig.dev.json
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EcommerceLivrariaAPI.pdb
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.csproj.AssemblyReference.cache
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.AssemblyInfoInputs.cache
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.AssemblyInfo.cs
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.RazorTargetAssemblyInfo.cache
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceLivrariaAPI.StaticWebAssets.Manifest.cache
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceLivrariaAPI.StaticWebAssets.Pack.cache
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.EcommerceLivrariaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.EcommerceLivrariaAPI.props
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.EcommerceLivrariaAPI.props
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.EcommerceLivrariaAPI.props
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.csproj.CopyComplete
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.dll
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.pdb
+C:\Projetos\Treinamentos\EcommerceLivraria\Repositório Local\EcommerceLivrariaAPI\EcommerceLivrariaAPI\obj\Debug\netcoreapp3.1\EcommerceLivrariaAPI.genruntimeconfig.cache
